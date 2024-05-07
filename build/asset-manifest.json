@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.5128117d.css",
+    "main.js": "/Portfolio/static/js/main.d74ffd99.js",
+    "static/media/Lofi Mockup - LMG Homepage First Iteration.jpg": "/Portfolio/static/media/Lofi Mockup - LMG Homepage First Iteration.9bd4258b48c23e0cfb44.jpg",
+    "static/media/FEP-Dark.png": "/Portfolio/static/media/FEP-Dark.02fddf29280777c0498e.png",
+    "static/media/kermit-big.png": "/Portfolio/static/media/kermit-big.8df2bfbb5268c748748d.png",
+    "static/media/UXUI.png": "/Portfolio/static/media/UXUI.ed2446dce968516fb9f6.png",
+    "static/media/kermit.png": "/Portfolio/static/media/kermit.71ebeba2186d99802a57.png",
+    "static/media/EPark - Home.png": "/Portfolio/static/media/EPark - Home.f72d8d5c18ec7e392b7f.png",
+    "static/media/LMG Full Logo (.png).png": "/Portfolio/static/media/LMG Full Logo (.png).c829440922d196e3d6c3.png",
+    "static/media/Sandborn_Logo_Retina.png": "/Portfolio/static/media/Sandborn_Logo_Retina.871ba74b0ee76c67e2ae.png",
+    "index.html": "/Portfolio/index.html",
+    "main.5128117d.css.map": "/Portfolio/static/css/main.5128117d.css.map",
+    "main.d74ffd99.js.map": "/Portfolio/static/js/main.d74ffd99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5128117d.css",
+    "static/js/main.d74ffd99.js"
+  ]
+}
